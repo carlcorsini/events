@@ -1,0 +1,12 @@
+.msg {
+  font-size: 2em;
+  text-align: center;
+}
+
+#root {
+  height: 96vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
